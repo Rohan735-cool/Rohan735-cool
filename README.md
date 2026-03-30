@@ -27,21 +27,15 @@
 
 ## 📊 GitHub Universe
 <div align="center">
-
-## 🌟 Rohan735-cool Stats
-| Metric | Value |
-|--------|-------|
-| Repos | 7+ |
-| Languages | Python, C, Astro-Data |
-| **Featured** | NASA Exoplanet Research |
-| Streak | 🔥 Active Developer |
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohan735-cool)
-
-**NASA Exoplanet Archive Analysis** 👇
-[![Exoplanet Repo](https://img.shields.io/badge/Featured_Project-FF6B6B?style=for-the-badge&logo=nasa&logoColor=white)](https://github.com/Rohan735-cool/Exoplanet-Research-NASA)
-
+<img src="https://img.shields.io/badge/Repos-7%2B-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Active-Streak-00D2FF?style=for-the-badge&logo=graph-up&logoColor=white"/>
+<br><br>
+![GitHub Streak](https://streak-stats.demolab.com?user=Rohan735-cool&theme=dark)
+<br><br>
+[![NASA Exoplanet](https://img.shields.io/badge/Featured-NASA%20Research-FF6B6B?style=for-the-badge&logo=nasa&logoColor=white)](https://github.com/Rohan735-cool/Exoplanet-Research-NASA)
 </div>
+
 ---
 
 ## 📱 Reach Me
