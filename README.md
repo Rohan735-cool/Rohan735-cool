@@ -27,13 +27,21 @@
 
 ## 📊 GitHub Universe
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rohan735-cool&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies"/>
-<br><br>
-![GitHub Streak](https://streak-stats.demolab.com?user=Rohan735-cool&theme=dark)
-<br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api?username=Rohan735-cool&theme=dracula" alt="Summary"/>
-</div>
 
+## 🌟 Rohan735-cool Stats
+| Metric | Value |
+|--------|-------|
+| Repos | 7+ |
+| Languages | Python, C, Astro-Data |
+| **Featured** | NASA Exoplanet Research |
+| Streak | 🔥 Active Developer |
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohan735-cool)
+
+**NASA Exoplanet Archive Analysis** 👇
+[![Exoplanet Repo](https://img.shields.io/badge/Featured_Project-FF6B6B?style=for-the-badge&logo=nasa&logoColor=white)](https://github.com/Rohan735-cool/Exoplanet-Research-NASA)
+
+</div>
 ---
 
 ## 📱 Reach Me
