@@ -26,14 +26,13 @@
 ---
 
 ## 📊 GitHub Universe
+
 <div align="center">
-
-[![Rohan735-cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan735-cool&showIcons=true&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan735-cool&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rohan735-cool&theme=dark)
-
+<img src="https://img.shields.io/badge/Repos-7+-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+<img src="https://img.shields.io/badge/Python-85%-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/Streak-Active!-00D2FF?style=for-the-badge&logo=graph-up&logoColor=white" alt="Streak"/>
+<br><br>
+![Streak](https://streak-stats.demolab.com?user=Rohan735-cool&theme=dark)
 </div>
 
 ---
