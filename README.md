@@ -26,14 +26,16 @@
 ---
 
 ## 📊 GitHub Universe
-## 📊 GitHub Universe
 <div align="center">
-**🔭 7+ Repos | 🐍 Python Data Science | 🚀 NASA Exoplanet Research**  
-<br>
-[![NASA Project](https://img.shields.io/badge/Featured-NASA_Research-FF6B6B?style=for-the-badge&logo=nasa&logoColor=white)](https://github.com/Rohan735-cool/Exoplanet-Research-NASA)
-<br><br>
-**Active Kathmandu Coder** ☕
+
+[![Rohan735-cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan735-cool&showIcons=true&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan735-cool&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rohan735-cool&theme=dark)
+
 </div>
+
 ---
 
 ## 📱 Reach Me
