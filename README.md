@@ -27,9 +27,9 @@
 
 ## 📊 GitHub Universe
 <div align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=Rohan735-cool&showIcons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan735-cool&layout=compact&theme=radical&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohan735-cool&theme=radical&hide_border=true)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Rohan735-cool&showIcons=true&theme=radical&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan735-cool&layout=compact&theme=radical&hide_border=true)  
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohan735-cool&theme=radical&hide_border=true)
 </div>
 
 ---
