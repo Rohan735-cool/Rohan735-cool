@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=High%20School%20Astrophysicist;Exoplanet%20Researcher%F0%9F%8C%96;NASA%20Data%20Analysis;Kathmandu%20Coder%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=High%20School%20Astrophysicist;Exoplanet%20Researcher%F0%9F%8C%96;NASA%20Data%20Analysis;Dhulikhel%20Coder%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 👨‍🎓 **High school passout** → **self-taught astrophysicist**  
 🤝 Open to **data science** collabs  
 🌱 Learning **C**, ML, astrophysics  
-☕ Fuelled by **curiosity from Kathmandu**
+☕ Fuelled by **curiosity from Dhulikhel**
 
 ---
 
