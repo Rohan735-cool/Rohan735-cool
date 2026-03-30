@@ -27,11 +27,11 @@
 
 ## 📊 GitHub Universe
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohan735-cool&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies v2"/>
-  <br><br>
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Rohan735-cool&theme=dark)
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api?username=Rohan735-cool&theme=dracula" alt="Summary Card"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rohan735-cool&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies"/>
+<br><br>
+![GitHub Streak](https://streak-stats.demolab.com?user=Rohan735-cool&theme=dark)
+<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api?username=Rohan735-cool&theme=dracula" alt="Summary"/>
 </div>
 
 ---
