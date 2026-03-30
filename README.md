@@ -29,9 +29,9 @@
 
 <div align="center">
 
-[![Rohan735-cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan735-cool&showIcons=true&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohan735-cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan735-cool&showIcons=true&theme=dracula&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan735-cool&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan735-cool&layout=compact&theme=dracula&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rohan735-cool&theme=dark)
 
