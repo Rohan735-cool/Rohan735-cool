@@ -26,11 +26,10 @@
 ---
 
 ## 📊 GitHub Universe
-<div align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=Rohan735-cool&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan735-cool&theme=dark&layout=compact)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Rohan735-cool&theme=dark)
-</div>
+![Repos 7+](https://img.shields.io/badge/Repos-7+-4CAF50?style=for-the-badge&logo=github&logoColor=white)
+![Python 85%](https://img.shields.io/badge/Python-85%-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NASA Research](https://img.shields.io/badge/Featured-NASA-FF6B6B?style=for-the-badge&logo=nasa&logoColor=white)
+
 ---
 
 ## 📱 Reach Me
